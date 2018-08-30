@@ -171,9 +171,7 @@
             </goals>
             <configuration>
               <proc>only</proc>
-              <annotationProcessors>
-                <annotationProcessor>com.github.mvp4g.nalu.processor.NaluProcessor</annotationProcessor>
-              </annotationProcessors>
+
             </configuration>
           </execution>
           <execution>
